@@ -13,3 +13,6 @@
 ## Google Docs
 ### Feature ของระบบ
 https://docs.google.com/spreadsheets/d/1c75g5VNtEH2ndBsrJMVusNMBuEkejZmTdbSUN4WI7ds/edit#gid=0
+
+## Use-case
+<img src="usecase-PNG">
