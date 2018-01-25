@@ -1,8 +1,15 @@
 # Travel-Market-Price
 * Package tour
+- ทัวร์บก
+  - city tour
+  - Activity
+  - show
+  - shopping
+- ทัวร์น้ำ    
+- 3 ระดับ --> พรีเมี่ยม,กลาง,ต้ำ
 * Transportation
 * Spa
-* Activity
+
 
 
 ## เว็บไซต์ทัวร์ที่มีอยู่แล้ว
