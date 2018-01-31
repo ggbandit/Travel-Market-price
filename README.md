@@ -27,3 +27,6 @@ https://docs.google.com/spreadsheets/d/1c75g5VNtEH2ndBsrJMVusNMBuEkejZmTdbSUN4WI
 
 ## Static Web
 <img src="static-tour.PNG">
+
+## phpmyadmin
+<img src="phpmyadmin.PNG">
