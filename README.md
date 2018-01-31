@@ -24,3 +24,6 @@ https://docs.google.com/spreadsheets/d/1c75g5VNtEH2ndBsrJMVusNMBuEkejZmTdbSUN4WI
 
 ## Use-case
 <img src="usecase.PNG">
+
+## Static Web
+<img src="static-tour.PNG">
