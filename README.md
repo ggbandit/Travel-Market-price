@@ -39,5 +39,5 @@ https://docs.google.com/spreadsheets/d/1c75g5VNtEH2ndBsrJMVusNMBuEkejZmTdbSUN4WI
 <img src="chapter1-2.PNG">
 
 ## บทที่ 2
-<img src="chapter2.PNG">
+<img src="chapter2-1.PNG">
 <img src="chapter2-2.PNG">
