@@ -30,3 +30,6 @@ https://docs.google.com/spreadsheets/d/1c75g5VNtEH2ndBsrJMVusNMBuEkejZmTdbSUN4WI
 
 ## phpmyadmin
 <img src="phpmyadmin.PNG">
+
+## Relationship
+<img src="relationship.PNG">
